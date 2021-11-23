@@ -14,6 +14,6 @@ Currently supported features:
 - Players can clear the in game chat automatically on respawn, with a configurable delay
 - Players can immdeiately stop boss music on respawn
 - Players can reset the in game lighting on respawn
-- Allows the display of fight stats in chat (attempt number, boss health at the end of the attempt, and slowdown percentage) on respawn
+- Allows the display of fight stats in chat (attempt number, fight length, boss health at the end of the attempt, and slowdown percentage) on respawn
 - Allows the ability to display the session attempt number above the player's head, also with a configurable timer
 - Adds the Max Life Crystal, Max Life Fruit, and Max Mana Crystal, which each automatically use the max number of their respective bases
