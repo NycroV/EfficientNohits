@@ -7,7 +7,7 @@ Note that using Calamity's "Hermit's Box of a Hundred Medicines" will prevent th
 
 Currently supported features:
 - You can choose to despawn bosses, hostile NPCs (not including bosses), friendly NPCs, hostile projectiles, friendly projectiles, and dusts on death or on hit
-- Allows the disabling of rain, events/invasions, natural NPC spawns, and fallen stars
+- Allows the disabling of rain, events/invasions, natural NPC spawns, fallen stars, and tombstones
 - You can choose to automatically destroy pickup hearts, mana stars, coins, and all other grounded items
 - Players can override the respawn timer
 - Players can override their respawn HP
