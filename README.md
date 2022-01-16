@@ -6,7 +6,9 @@ Also adds automatic max HP and mana items
 Note that using Calamity's "Hermit's Box of a Hundred Medicines" will prevent the respawn HP override from working.
 
 Currently supported features:
-- You can choose to despawn bosses, hostile NPCs (not including bosses), friendly NPCs, hostile projectiles, friendly projectiles, and dusts on death or on hit
+- You can choose to despawn bosses, hostile NPCs (not including bosses), friendly NPCs, hostile projectiles, friendly projectiles, and dusts whenever you die or whenever you are hit
+- Allows the enabling of instant death whenever the player is hit, configurable to be only active whenever a boss is alive or always active
+- Allows the disabling of flight time
 - Allows the disabling of rain, events/invasions, natural NPC spawns, fallen stars, and tombstones
 - You can choose to automatically destroy pickup hearts, mana stars, coins, and all other grounded items
 - Players can override the respawn timer
